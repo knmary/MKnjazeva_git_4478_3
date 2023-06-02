@@ -12,3 +12,7 @@
 
     git diff
 
+## Проверка состояния hash (hashes) репозитория
+
+    git diff <hash1> <hash2>
+
