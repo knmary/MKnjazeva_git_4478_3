@@ -60,3 +60,10 @@
 
     git log --oneline --all
 
+## Перемещение на коммит по указанному hash
+
+    git checkout <hash>
+
+## Перемещение на коммит Master
+
+    git checkout master 
