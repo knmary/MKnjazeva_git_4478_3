@@ -87,4 +87,6 @@
 
     git branch name_of_new_branch
 
-### какой то текст
+###  Переключение между ветками
+
+    git checkout name_of_branch
