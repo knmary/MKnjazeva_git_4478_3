@@ -69,3 +69,5 @@
 ## Перемещение на коммит Master
 
     git checkout master 
+
+## Ветвления в  Git
