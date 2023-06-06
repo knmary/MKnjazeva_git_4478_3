@@ -97,3 +97,6 @@
     git merge name_of_branch
 
 ###  Удаление ветки
+### Удаление ветки
+
+    git branch -d name_of_branch
