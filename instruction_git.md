@@ -86,3 +86,7 @@
 ### Создание новой ветки
 
     git branch name_of_new_branch
+
+###  Переключение между ветками
+
+    git checkout name_of_branch
